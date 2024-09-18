@@ -8,7 +8,7 @@ The MNIST database (Modified National Institute of Standards and Technology data
   -  Source: Derived from two larger NIST databases:
   -  Special Database 1: Handwritten digits from high school students.
   -  Special Database 3: Handwritten digits from employees of the United States Census Bureau.
-## **2. Image Specifications ** ##
+## 2. Image Specifications ##
   -  Resolution: Each image is 28x28 pixels.
   -  Color Depth: Grayscale, with pixel values ranging from 0 (background) to 255 (foreground).
   -  Size Normalization: Original NIST images, which are black and white (bilevel), are resized to fit within a 20x20 pixel box while maintaining the aspect ratio. This resizing introduces grayscale levels due to the anti-aliasing techniques employed.
