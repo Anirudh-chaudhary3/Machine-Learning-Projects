@@ -8,7 +8,7 @@ Test Set: Contains 10,000 grayscale images for evaluating model performance.
 Source: Derived from two larger NIST databases:
 Special Database 1: Handwritten digits from high school students.
 Special Database 3: Handwritten digits from employees of the United States Census Bureau.
-## **2. Image Specifications **##
+## **2. Image Specifications ** ##
 Resolution: Each image is 28x28 pixels.
 Color Depth: Grayscale, with pixel values ranging from 0 (background) to 255 (foreground).
 Normalization:
